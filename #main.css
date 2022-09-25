@@ -40,6 +40,7 @@ header {
 
   .about__image {
     width: 500px;
+    height: auto;
   }
 
   .about__sun-image {
